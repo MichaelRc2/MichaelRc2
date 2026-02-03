@@ -3,8 +3,8 @@
 🚀 FullStack Developer 
 
   
-  I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
+  Estou focado em construir aplicações do mundo real enquanto fortaleço minhas habilidades em JavaScript, desenvolvimento back-end e código limpo e sustentável.
+Meu objetivo é evoluir como desenvolvedor criando projetos que resolvam problemas reais e reflitam boas práticas de desenvolvimento.
 
 ---
 
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MichaelMoura&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMoura&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MichaelRc2&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRc2&layout=compact&theme=tokyonight" />
 </p>
 
 ---
