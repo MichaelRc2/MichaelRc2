@@ -74,6 +74,15 @@ Meu objetivo é evoluir como desenvolvedor criando projetos que resolvam problem
 
 ---
 
+## 🎯 Current focus
+
+-Aprimorar habilidades em back-end e desenvolvimento de APIs
+-Construir e refinar projetos de portfólio
+-Aprender boas práticas para aplicações escaláveis
+-Preparação para a primeira oportunidade como desenvolvedor
+
+---
+
 ## 🚀 Philosophy
 
 > _"Aprender a programar não se resume a memorizar sintaxe.  
