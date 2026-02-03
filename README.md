@@ -11,10 +11,10 @@ Meu objetivo é evoluir como desenvolvedor criando projetos que resolvam problem
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="hhttps://github.com/MichaelRc2">
-    <img src="https://img.shields.io/badge/GitHub-MichaelRc2-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/michael__2508">
+  <a href="https://www.linkedin.com/in/michaelmoura25/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Michael%20Moura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/michael__2508">
     <img src="https://img.shields.io/badge/Instagram-@Michael Moura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -67,19 +67,18 @@ Meu objetivo é evoluir como desenvolvedor criando projetos que resolvam problem
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MichaelRc2&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRc2&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=michaelrc2&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelrc2&theme=tokyo-night" />
+
 
 ---
 
 ## 🎯 Current focus
 
--Aprimorar habilidades em back-end e desenvolvimento de APIs
--Construir e refinar projetos de portfólio
--Aprender boas práticas para aplicações escaláveis
--Preparação para a primeira oportunidade como desenvolvedor
+- Aprimorar habilidades em back-end e desenvolvimento de APIs
+- Construir e refinar projetos de portfólio
+- Aprender boas práticas para aplicações escaláveis
+- Preparação para a primeira oportunidade como desenvolvedor
 
 ---
 
