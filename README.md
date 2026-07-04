@@ -67,8 +67,6 @@ Meu objetivo é evoluir como desenvolvedor criando projetos que resolvam problem
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=michaelrc2&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelrc2&theme=tokyo-night" />
-
 
 ---
 
